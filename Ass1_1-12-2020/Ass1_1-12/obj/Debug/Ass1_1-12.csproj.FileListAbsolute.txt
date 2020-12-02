@@ -1,0 +1,9 @@
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass1_1-12\Ass1_1-12\bin\Debug\Ass1_1-12.exe.config
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass1_1-12\Ass1_1-12\obj\Debug\Ass1_1-12.csprojResolveAssemblyReference.cache
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass1_1-12\Ass1_1-12\obj\Debug\Ass1_1_12.Form1.resources
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass1_1-12\Ass1_1-12\obj\Debug\Ass1_1_12.Properties.Resources.resources
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass1_1-12\Ass1_1-12\obj\Debug\Ass1_1-12.csproj.GenerateResource.Cache
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass1_1-12\Ass1_1-12\bin\Debug\Ass1_1-12.exe
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass1_1-12\Ass1_1-12\bin\Debug\Ass1_1-12.pdb
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass1_1-12\Ass1_1-12\obj\Debug\Ass1_1-12.exe
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass1_1-12\Ass1_1-12\obj\Debug\Ass1_1-12.pdb
