@@ -1,0 +1,9 @@
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass2_1-12-2020sm\Ass2_1-12-2020sm\bin\Debug\Ass2_1-12-2020sm.exe.config
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass2_1-12-2020sm\Ass2_1-12-2020sm\bin\Debug\Ass2_1-12-2020sm.exe
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass2_1-12-2020sm\Ass2_1-12-2020sm\bin\Debug\Ass2_1-12-2020sm.pdb
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass2_1-12-2020sm\Ass2_1-12-2020sm\obj\Debug\Ass2_1-12-2020sm.csprojResolveAssemblyReference.cache
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass2_1-12-2020sm\Ass2_1-12-2020sm\obj\Debug\Ass2_1_12_2020sm.Form1.resources
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass2_1-12-2020sm\Ass2_1-12-2020sm\obj\Debug\Ass2_1_12_2020sm.Properties.Resources.resources
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass2_1-12-2020sm\Ass2_1-12-2020sm\obj\Debug\Ass2_1-12-2020sm.csproj.GenerateResource.Cache
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass2_1-12-2020sm\Ass2_1-12-2020sm\obj\Debug\Ass2_1-12-2020sm.exe
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass2_1-12-2020sm\Ass2_1-12-2020sm\obj\Debug\Ass2_1-12-2020sm.pdb
