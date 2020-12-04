@@ -1,0 +1,6 @@
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass4\Ass4\bin\Debug\Ass4.exe.config
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass4\Ass4\bin\Debug\Ass4.exe
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass4\Ass4\bin\Debug\Ass4.pdb
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass4\Ass4\obj\Debug\Ass4.csprojResolveAssemblyReference.cache
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass4\Ass4\obj\Debug\Ass4.exe
+C:\Users\test\Documents\Visual Studio 2015\Assignments\Ass4\Ass4\obj\Debug\Ass4.pdb
