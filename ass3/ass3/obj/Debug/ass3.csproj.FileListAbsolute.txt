@@ -1,0 +1,6 @@
+C:\Users\test\Documents\Visual Studio 2015\Assignments\ass3\ass3\bin\Debug\ass3.exe.config
+C:\Users\test\Documents\Visual Studio 2015\Assignments\ass3\ass3\obj\Debug\ass3.csprojResolveAssemblyReference.cache
+C:\Users\test\Documents\Visual Studio 2015\Assignments\ass3\ass3\bin\Debug\ass3.exe
+C:\Users\test\Documents\Visual Studio 2015\Assignments\ass3\ass3\bin\Debug\ass3.pdb
+C:\Users\test\Documents\Visual Studio 2015\Assignments\ass3\ass3\obj\Debug\ass3.exe
+C:\Users\test\Documents\Visual Studio 2015\Assignments\ass3\ass3\obj\Debug\ass3.pdb
